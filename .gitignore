@@ -10,4 +10,5 @@
 *.los
 *.lot
 *.out
+*.synctex.gz
 *.toc
